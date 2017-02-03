@@ -22,13 +22,13 @@ html {
 .img-flex {
   display: block;
   width: 100%;
-  overflow: hidden;
-  max-height: 35em;
+
 }
 
 .banner {
   position: relative;
-
+  overflow: hidden;
+  max-height: 24em;
 }
 
 .banner-content {
